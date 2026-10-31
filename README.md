@@ -1,6 +1,6 @@
 # Ontology vs Semantic Model, Explained with My Running Data
 
-Companion notebook to the article on [buckenhofer.com](https://buckenhofer.com): my Strava runs 2021 to 2025 in DuckDB, an ontology, a semantic model and a mapping in Apache Ossie YAML, and a test of whether they help an LLM write correct SQL.
+Companion notebook to the article on [buckenhofer.com]((https://buckenhofer.com/2026/10/ontology-vs-semantic-model/): my Strava runs 2021 to 2025 in DuckDB, an ontology, a semantic model and a mapping in Apache Ossie YAML, and a test of whether they help an LLM write correct SQL.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abuckenhofer/ontology-vs-semantic-model/blob/main/ontology_vs_semantic_model.ipynb)
 
