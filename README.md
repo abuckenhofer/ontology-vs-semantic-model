@@ -12,4 +12,4 @@ Run all cells from top to bottom. The LLM test at the end has a switch `LLM`:
 | `gemini_api` | Gemini API | `GEMINI_API_KEY` |
 | `openrouter` | any model on OpenRouter | `OPENROUTER_API_KEY` |
 
-All attempts behind the numbers in the article (GLM 5.1 and Llama 3.1 8B via OpenRouter) are in `results/llm_attempts.csv`.
+All attempts behind the numbers in the article (GLM 5.1 and Llama 3.1 8B via OpenRouter) are in `llm_attempts.csv`.
